@@ -5,16 +5,16 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** Shriyash Akhil
+* **Registration Number:** 23BCE10547
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
 ---
 
 ## 🔗 Live Application Gateways
-* **Production Live URL:** https://student-placement-predictor-app-6rll.onrender.com
-* **Source Repository:** https://github.com/AkshatGarg2005/Student-Placement_Predictor_App
+* **Production Live URL:**  https://student-placement-1-thiu.onrender.com
+* **Source Repository:** https://github.com/shriyash1604/Student-placement
 
 ---
 
